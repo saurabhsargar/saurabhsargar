@@ -43,5 +43,5 @@ AWS | Azure | GCP | Firebase
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add link)
+- LinkedIn: www.linkedin.com/in/saurabhsargar
 - Email: saurabhsargar100@gmail.com
