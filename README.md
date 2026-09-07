@@ -90,31 +90,11 @@ Full Stack Developer with 1+ years of experience building end-to-end web applica
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saurabhsargar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsargar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhsargar&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurabhsargar&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [RAG_QP_Genarator](https://github.com/saurabhsargar/RAG_QP_Genarator) | RAG pipeline using HuggingFace embeddings + FAISS/ChromaDB vector search to generate question papers from documents | Python, LangChain, HuggingFace |
-| [StudySync](https://github.com/saurabhsargar/StudySync) | Full-stack Django discussion platform with secure auth, role-based room management & automated moderation | Django, Python, SQLite |
-| [Flutter_Weather_App](https://github.com/saurabhsargar/Flutter_Weather_App) | Cross-platform weather app | C++ / Dart |
-| [Rydex](https://github.com/saurabhsargar/Rydex) | Ride-hailing style app | Dart |
 
 ---
 
