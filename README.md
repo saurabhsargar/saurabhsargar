@@ -19,7 +19,7 @@ Full Stack Developer with 1+ years of experience building end-to-end web applica
 
 - 💼 Software Developer @ **Bereej Technologies Pvt. Ltd.** *(Intern → Full-time)*
 - 🛠️ Designed & deployed **40+ REST APIs** with ASP.NET Core 8, EF Core & PostgreSQL
-- ☁️ Built multi-cloud integrations across **AWS, Azure, GCP & OCI**
+- ☁️ Built multi-cloud integrations across **AWS, Azure & GCP**
 - 🤖 Built a **production AI assistant** giving real-time multi-cloud cost/health insights
 - 🎓 **IBM Generative AI Engineering Professional Certificate** — RAG, LangChain, LLMs, AI Agents
 - 📍 Based in Pune, Maharashtra, India
